@@ -1,4 +1,4 @@
-# cyberfighter.org
+# CyᴮᴱᴿFᴵᴳᴴᵀᴱᴿ.ᴼᴿᴳ
 
 <p><h3> Domain : cyberfighter.org </h3>
 <h3> Admin: (1)<a href="mailto:eysz7x@mailbox.org">eysz7x@mailbox.org</a></h3>
@@ -26,7 +26,7 @@
 
 <tbody>
 <tr>
-<td style="text-align: left">141277c05</td>
+<td style="text-align: left">436dae46be</td>
 </tr>
 </tbody>
 </table>
